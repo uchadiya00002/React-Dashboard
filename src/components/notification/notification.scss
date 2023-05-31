@@ -1,0 +1,27 @@
+.notification-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    position: relative;
+  }
+  
+  .notification-icon {
+    color: #27bbe0;
+  }
+  
+//   .notification-icon {
+//     color: #555;
+//   }
+  
+  .notification-drawer {
+    width: 500px;
+  
+    .notification-list {
+      padding: 20px;
+    }
+  
+    .notification-heading {
+      
+    }
+  }
+  
